@@ -1,0 +1,23 @@
+{
+  "title": "Mowgli",
+  "status": {
+    "battery": "Batterie",
+    "charging": "En charge",
+    "mowing": "En tonte",
+    "docked": "En charge (dock)",
+    "idle": "Inactif",
+    "error": "Erreur"
+  },
+  "actions": {
+    "start": "Démarrer",
+    "pause": "Pause",
+    "stop": "Arrêter",
+    "dock": "Retour station"
+  },
+  "labels": {
+    "pcbTemperature": "Température PCB",
+    "leftWheelCurrent": "Courant roue gauche",
+    "rightWheelCurrent": "Courant roue droite",
+    "batteryPercentage": "Charge batterie"
+  }
+}

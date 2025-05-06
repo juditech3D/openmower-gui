@@ -1,0 +1,23 @@
+{
+  "title": "Mowgli",
+  "status": {
+    "battery": "Battery",
+    "charging": "Charging",
+    "mowing": "Mowing",
+    "docked": "Docked",
+    "idle": "Idle",
+    "error": "Error"
+  },
+  "actions": {
+    "start": "Start",
+    "pause": "Pause",
+    "stop": "Stop",
+    "dock": "Dock"
+  },
+  "labels": {
+    "pcbTemperature": "PCB Temperature",
+    "leftWheelCurrent": "Left Wheel Current",
+    "rightWheelCurrent": "Right Wheel Current",
+    "batteryPercentage": "Battery Level"
+  }
+}
