@@ -1,0 +1,10 @@
+diff --git a/src/components/StatusCard.tsx b/src/components/StatusCard.tsx
+index abcdef1..1234567 100644
+--- a/src/components/StatusCard.tsx
++++ b/src/components/StatusCard.tsx
+@@ -45,12 +45,6 @@
+- <StatusItem label="UI board available" value={status.uiBoardAvailable} />
+- <StatusItem label="Sound module available" value={status.soundModuleAvailable} />
+- <StatusItem label="Sound module busy" value={status.soundModuleBusy} />
+- <StatusItem label="Rain detected" value={status.rainDetected} />
+- <StatusItem label="Ultrasonic ranges" value={status.ultrasonicRanges} />
